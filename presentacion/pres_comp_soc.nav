@@ -14,8 +14,16 @@
 \headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Justificaciones}}\headcommand {\beamer@subsectionpages {3}{3}}
 \headcommand {\slideentry {2}{1}{1}{4/4}{Justificaciones}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@partpages {1}{4}}
-\headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\beamer@sectionpages {3}{4}}
-\headcommand {\beamer@documentpages {4}}
-\headcommand {\def \inserttotalframenumber {4}}
+\headcommand {\slideentry {2}{1}{2}{5/5}{Justificaciones}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {2}{1}{3}{6/6}{Justificaciones}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{1}{4}{7/7}{Justificaciones}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{1}{5}{8/8}{Justificaciones}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@partpages {1}{8}}
+\headcommand {\beamer@subsectionpages {4}{8}}
+\headcommand {\beamer@sectionpages {3}{8}}
+\headcommand {\beamer@documentpages {8}}
+\headcommand {\def \inserttotalframenumber {8}}
