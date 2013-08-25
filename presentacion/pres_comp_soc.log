@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.24)  25 AUG 2013 02:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.24)  25 AUG 2013 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -915,14 +915,14 @@ LaTeX Info: Redefining \% on input line 2.
 
 ] [3
 
-] <cens_1.jpg, id=168, 150.5625pt x 234.1247pt>
+] <cens_1.jpg, id=174, 150.5625pt x 234.1247pt>
 File: cens_1.jpg Graphic file (type jpg)
  <use cens_1.jpg>
 Package pdftex.def Info: cens_1.jpg used on input line 50.
 (pdftex.def)             Requested size: 122.91406pt x 191.14038pt.
  [4
 
- <./cens_1.jpg>] <cens_post.jpg, id=201, 293.59688pt x 264.23718pt>
+ <./cens_1.jpg>] <cens_post.jpg, id=207, 293.59688pt x 264.23718pt>
 File: cens_post.jpg Graphic file (type jpg)
 
 <use cens_post.jpg>
@@ -935,7 +935,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.60 }
        [5
 
- <./cens_post.jpg>] <cens_int.jpg, id=233, 176.66pt x 200.75pt>
+ <./cens_post.jpg>] <cens_int.jpg, id=239, 176.66pt x 200.75pt>
 File: cens_int.jpg Graphic file (type jpg)
 
 <use cens_int.jpg>
@@ -948,7 +948,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.70 }
        [6
 
- <./cens_int.jpg>] <cens_4.jpg, id=266, 321.2pt x 119.44624pt>
+ <./cens_int.jpg>] <cens_4.jpg, id=272, 321.2pt x 119.44624pt>
 File: cens_4.jpg Graphic file (type jpg)
 
 <use cens_4.jpg>
@@ -961,7 +961,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.80 }
        [7
 
- <./cens_4.jpg>] <bloq_int.jpg, id=298, 662.475pt x 494.84875pt>
+ <./cens_4.jpg>] <bloq_int.jpg, id=304, 662.475pt x 494.84875pt>
 File: bloq_int.jpg Graphic file (type jpg)
 
 <use bloq_int.jpg>
@@ -992,6 +992,8 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 ] [12
 
+] [13
+
 ]
 \tf@nav=\write6
 \openout6 = `pres_comp_soc.nav'.
@@ -1002,17 +1004,17 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 \tf@snm=\write8
 \openout8 = `pres_comp_soc.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
 
 (./pres_comp_soc.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 168.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
 Package rerunfilecheck Info: File `pres_comp_soc.out' has not changed.
-(rerunfilecheck)             Checksum: ADDE1A37FB8AB103299477567246C85E;456.
+(rerunfilecheck)             Checksum: 0AC6812960169EA725A9E2E710060845;544.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1021,23 +1023,23 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
  ) 
 Here is how much of TeX's memory you used:
- 16276 strings out of 495059
- 300848 string characters out of 3182030
- 384720 words of memory out of 3000000
- 19023 multiletter control sequences out of 15000+200000
- 11434 words of font info for 42 fonts, out of 3000000 for 9000
+ 16317 strings out of 495059
+ 301898 string characters out of 3182030
+ 384721 words of memory out of 3000000
+ 19061 multiletter control sequences out of 15000+200000
+ 11739 words of font info for 43 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,20n,62p,402b,806s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on pres_comp_soc.pdf (12 pages, 219702 bytes).
+Output written on pres_comp_soc.pdf (13 pages, 223846 bytes).
 PDF statistics:
- 474 PDF objects out of 1000 (max. 8388607)
- 431 compressed objects within 5 object streams
- 34 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 520 PDF objects out of 1000 (max. 8388607)
+ 475 compressed objects within 5 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 

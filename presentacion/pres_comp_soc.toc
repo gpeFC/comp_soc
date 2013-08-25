@@ -7,3 +7,4 @@
 \beamer@sectionintoc {4}{Casos Documentados}{11}{0}{3}
 \beamer@subsectionintoc {4}{1}{Art\'iculo - CEPREDE}{11}{0}{3}
 \beamer@subsectionintoc {4}{2}{Art\'iculo - Universidad SEK de Segovia}{12}{0}{3}
+\beamer@subsectionintoc {4}{3}{Art\'iculo - Reporteros sin Fronteras}{13}{0}{3}
