@@ -4,3 +4,5 @@
 \beamer@subsectionintoc {2}{1}{Justificaciones}{4}{0}{1}
 \beamer@sectionintoc {3}{Censura en Internet}{9}{0}{2}
 \beamer@subsectionintoc {3}{1}{Principales Contextos de Censura}{10}{0}{2}
+\beamer@sectionintoc {4}{Casos Documentados}{11}{0}{3}
+\beamer@subsectionintoc {4}{1}{Art\'iculo - CEPREDE}{11}{0}{3}
