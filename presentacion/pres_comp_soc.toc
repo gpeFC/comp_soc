@@ -9,3 +9,4 @@
 \beamer@subsectionintoc {4}{2}{Art\'iculo - Universidad SEK de Segovia}{12}{0}{3}
 \beamer@subsectionintoc {4}{3}{Art\'iculo - Reporteros sin Fronteras}{13}{0}{3}
 \beamer@subsectionintoc {4}{4}{Art\'iculo - Universidad de Guadalajara}{14}{0}{3}
+\beamer@sectionintoc {5}{Censor}{15}{0}{4}

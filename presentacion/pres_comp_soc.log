@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.24)  25 AUG 2013 14:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.24)  25 AUG 2013 16:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -733,6 +733,9 @@ LaTeX Warning: Label `fig:ejemplo' multiply defined.
 
 LaTeX Warning: Label `fig:ejemplo' multiply defined.
 
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
 )
 \openout1 = `pres_comp_soc.aux'.
 
@@ -919,14 +922,14 @@ LaTeX Info: Redefining \% on input line 2.
 )
 [2
 
-] <cens_dk.jpg, id=145, 455.7025pt x 181.67876pt>
+] <cens_dk.jpg, id=154, 455.7025pt x 181.67876pt>
 File: cens_dk.jpg Graphic file (type jpg)
  <use cens_dk.jpg>
 Package pdftex.def Info: cens_dk.jpg used on input line 44.
 (pdftex.def)             Requested size: 199.73653pt x 79.63118pt.
  [3
 
- <./cens_dk.jpg>] <cens_1.jpg, id=182, 150.5625pt x 234.1247pt>
+ <./cens_dk.jpg>] <cens_1.jpg, id=192, 150.5625pt x 234.1247pt>
 File: cens_1.jpg Graphic file (type jpg)
  <use cens_1.jpg>
 Package pdftex.def Info: cens_1.jpg used on input line 55.
@@ -936,9 +939,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 <to be read again> 
                    \relax 
 l.55 }
-       [4
+      
+Overfull \vbox (6.50914pt too high) detected at line 55
+ []
 
- <./cens_1.jpg>] <cens_post.jpg, id=214, 293.59688pt x 264.23718pt>
+[4
+
+ <./cens_1.jpg>] <cens_post.jpg, id=225, 293.59688pt x 264.23718pt>
 File: cens_post.jpg Graphic file (type jpg)
 
 <use cens_post.jpg>
@@ -951,7 +958,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.65 }
        [5
 
- <./cens_post.jpg>] <cens_int.jpg, id=246, 176.66pt x 200.75pt>
+ <./cens_post.jpg>] <cens_int.jpg, id=258, 176.66pt x 200.75pt>
 File: cens_int.jpg Graphic file (type jpg)
 
 <use cens_int.jpg>
@@ -964,7 +971,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.75 }
        [6
 
- <./cens_int.jpg>] <cens_4.jpg, id=279, 321.2pt x 119.44624pt>
+ <./cens_int.jpg>] <cens_4.jpg, id=292, 321.2pt x 119.44624pt>
 File: cens_4.jpg Graphic file (type jpg)
 
 <use cens_4.jpg>
@@ -977,7 +984,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.85 }
        [7
 
- <./cens_4.jpg>] <bloq_int.jpg, id=311, 662.475pt x 494.84875pt>
+ <./cens_4.jpg>] <bloq_int.jpg, id=325, 662.475pt x 494.84875pt>
 File: bloq_int.jpg Graphic file (type jpg)
 
 <use bloq_int.jpg>
@@ -990,7 +997,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.95 }
        [8
 
- <./bloq_int.jpg>] <lib_exp.png, id=342, 552.0625pt x 480.79625pt>
+ <./bloq_int.jpg>] <lib_exp.png, id=357, 552.0625pt x 480.79625pt>
 File: lib_exp.png Graphic file (type png)
 
 <use lib_exp.png>
@@ -1024,7 +1031,19 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ]
 [14
 
-]
+] <cens_mod.JPG, id=563, 401.5pt x 354.32375pt>
+File: cens_mod.JPG Graphic file (type jpg)
+ <use cens_mod.JPG>
+Package pdftex.def Info: cens_mod.JPG used on input line 202.
+(pdftex.def)             Requested size: 199.73653pt x 176.26935pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.202 }
+        [15
+
+ <./cens_mod.JPG>]
 \tf@nav=\write6
 \openout6 = `pres_comp_soc.nav'.
 
@@ -1034,16 +1053,16 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 \tf@snm=\write8
 \openout8 = `pres_comp_soc.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
  (./pres_comp_soc.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
 Package rerunfilecheck Info: File `pres_comp_soc.out' has not changed.
-(rerunfilecheck)             Checksum: 43DB2B6F44D92864679C43BED8A873C3;634.
+(rerunfilecheck)             Checksum: 9EF9D2F5A2CD14B12222EEE9526CA3C8;676.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1052,23 +1071,23 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
  ) 
 Here is how much of TeX's memory you used:
- 16345 strings out of 495059
- 302415 string characters out of 3182030
- 385637 words of memory out of 3000000
- 19083 multiletter control sequences out of 15000+200000
+ 16360 strings out of 495059
+ 302579 string characters out of 3182030
+ 385625 words of memory out of 3000000
+ 19093 multiletter control sequences out of 15000+200000
  11739 words of font info for 43 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,20n,62p,402b,806s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on pres_comp_soc.pdf (14 pages, 309948 bytes).
+Output written on pres_comp_soc.pdf (15 pages, 378214 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
- 517 compressed objects within 6 object streams
- 40 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 620 PDF objects out of 1000 (max. 8388607)
+ 567 compressed objects within 6 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
