@@ -1,4 +1,4 @@
 \beamer@endinputifotherversion {3.10pt}
 \select@language {spanish}
-\beamer@sectionintoc {2}{Ejemplo de seccion}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{Ejemplo de subseccion}{3}{0}{1}
+\beamer@sectionintoc {2}{Censura}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Justificaciones}{4}{0}{1}
