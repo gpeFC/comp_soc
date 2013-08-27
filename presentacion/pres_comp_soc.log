@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.24)  25 AUG 2013 16:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.8.22)  27 AUG 2013 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,12 +984,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.85 }
        [7
 
- <./cens_4.jpg>] <bloq_int.jpg, id=325, 662.475pt x 494.84875pt>
-File: bloq_int.jpg Graphic file (type jpg)
+ <./cens_4.jpg>] <cens_pop_1.jpg, id=325, 501.875pt x 501.875pt>
+File: cens_pop_1.jpg Graphic file (type jpg)
 
-<use bloq_int.jpg>
-Package pdftex.def Info: bloq_int.jpg used on input line 95.
-(pdftex.def)             Requested size: 215.10196pt x 160.67293pt.
+<use cens_pop_1.jpg>
+Package pdftex.def Info: cens_pop_1.jpg used on input line 95.
+(pdftex.def)             Requested size: 153.64493pt x 153.64217pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
  has been already used, duplicate ignored
 <to be read again> 
@@ -997,7 +997,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
 l.95 }
        [8
 
- <./bloq_int.jpg>] <lib_exp.png, id=357, 552.0625pt x 480.79625pt>
+ <./cens_pop_1.jpg>] <lib_exp.png, id=357, 552.0625pt x 480.79625pt>
 File: lib_exp.png Graphic file (type png)
 
 <use lib_exp.png>
@@ -1075,7 +1075,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
  ) 
 Here is how much of TeX's memory you used:
  16360 strings out of 495059
- 302579 string characters out of 3182030
+ 302589 string characters out of 3182030
  385625 words of memory out of 3000000
  19093 multiletter control sequences out of 15000+200000
  11739 words of font info for 43 fonts, out of 3000000 for 9000
@@ -1084,7 +1084,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on pres_comp_soc.pdf (15 pages, 378214 bytes).
+Output written on pres_comp_soc.pdf (15 pages, 319901 bytes).
 PDF statistics:
  620 PDF objects out of 1000 (max. 8388607)
  567 compressed objects within 6 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.24)  27 AUG 2013 02:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.8.22)  27 AUG 2013 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,6 +718,33 @@ LaTeX Info: Redefining \% on input line 24.
 
 LaTeX Warning: Label `fig:ejemplo' multiply defined.
 
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig:ejemplo' multiply defined.
+
 )
 \openout1 = `pres_comp_soc_2.aux'.
 
@@ -904,7 +931,7 @@ LaTeX Info: Redefining \% on input line 2.
 )
 [2
 
-] <oni.png, id=117, 501.875pt x 501.875pt>
+] <oni.png, id=119, 501.875pt x 501.875pt>
 File: oni.png Graphic file (type png)
  <use oni.png>
 Package pdftex.def Info: oni.png used on input line 46.
@@ -915,26 +942,139 @@ Overfull \vbox (2.94948pt too high) detected at line 46
 
 [3
 
- <./oni.png (PNG copy)>] <img.jpg, id=153, 96.36pt x 111.5367pt>
+ <./oni.png (PNG copy)>] <img.jpg, id=155, 96.36pt x 111.5367pt>
 File: img.jpg Graphic file (type jpg)
 
 <use img.jpg>
 Package pdftex.def Info: img.jpg used on input line 58.
-(pdftex.def)             Requested size: 116.77164pt x 135.16232pt.
+(pdftex.def)             Requested size: 107.55333pt x 124.49304pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.58 }
-      
-Overfull \vbox (7.25412pt too high) detected at line 58
- []
+       [4
 
-[4
+ <./img.jpg>] <cens_web.jpg, id=185, 200.75pt x 124.465pt>
+File: cens_web.jpg Graphic file (type jpg)
 
- <./img.jpg>] [5
+<use cens_web.jpg>
+Package pdftex.def Info: cens_web.jpg used on input line 72.
+(pdftex.def)             Requested size: 153.64493pt x 95.26668pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.72 }
+       [5
 
-] [6
+ <./cens_web.jpg>] <cens_yt.png, id=216, 662.475pt x 496.85625pt>
+File: cens_yt.png Graphic file (type png)
+
+<use cens_yt.png>
+Package pdftex.def Info: cens_yt.png used on input line 86.
+(pdftex.def)             Requested size: 153.64493pt x 115.22978pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 }
+       [6
+
+ <./cens_yt.png>] <rm_q.png, id=252, 702.625pt x 240.9pt>
+File: rm_q.png Graphic file (type png)
+
+<use rm_q.png>
+Package pdftex.def Info: rm_q.png used on input line 98.
+(pdftex.def)             Requested size: 245.83282pt x 84.28685pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 }
+       [7
+
+ <./rm_q.png>] <ps_2.jpg, id=285, 463.7325pt x 306.14375pt>
+File: ps_2.jpg Graphic file (type jpg)
+
+<use ps_2.jpg>
+Package pdftex.def Info: ps_2.jpg used on input line 110.
+(pdftex.def)             Requested size: 153.64493pt x 101.43414pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.110 }
+        [8
+
+ <./ps_2.jpg>] <cens_tw.jpg, id=316, 626.34pt x 352.31625pt>
+File: cens_tw.jpg Graphic file (type jpg)
+
+<use cens_tw.jpg>
+Package pdftex.def Info: cens_tw.jpg used on input line 122.
+(pdftex.def)             Requested size: 184.3758pt x 103.71198pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.122 }
+        [9
+
+ <./cens_tw.jpg>] [10
+
+]
+<cens_pop_4.jpg, id=379, 381.425pt x 235.88126pt>
+File: cens_pop_4.jpg Graphic file (type jpg)
+ <use cens_pop_4.jpg>
+Package pdftex.def Info: cens_pop_4.jpg used on input line 143.
+(pdftex.def)             Requested size: 153.64493pt x 95.01668pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.143 }
+        [11
+
+ <./cens_pop_4.jpg>]
+<bloq_int.jpg, id=411, 662.475pt x 494.84875pt>
+File: bloq_int.jpg Graphic file (type jpg)
+ <use bloq_int.jpg>
+Package pdftex.def Info: bloq_int.jpg used on input line 155.
+(pdftex.def)             Requested size: 184.3758pt x 137.71857pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.155 }
+        [12
+
+ <./bloq_int.jpg>] <bloq_rs.png, id=443, 401.5pt x 301.125pt>
+File: bloq_rs.png Graphic file (type png)
+
+<use bloq_rs.png>
+Package pdftex.def Info: bloq_rs.png used on input line 167.
+(pdftex.def)             Requested size: 184.3758pt x 138.28484pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.167 }
+        [13
+
+ <./bloq_rs.png>] <bloq_ap.jpg, id=478, 642.4pt x 481.8pt>
+File: bloq_ap.jpg Graphic file (type jpg)
+
+<use bloq_ap.jpg>
+Package pdftex.def Info: bloq_ap.jpg used on input line 179.
+(pdftex.def)             Requested size: 153.64493pt x 115.23001pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ejemplo})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179 }
+        [14
+
+ <./bloq_ap.jpg>] [15
 
 ]
 \tf@nav=\write6
@@ -946,16 +1086,16 @@ Overfull \vbox (7.25412pt too high) detected at line 58
 \tf@snm=\write8
 \openout8 = `pres_comp_soc_2.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
  (./pres_comp_soc_2.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
 Package rerunfilecheck Info: File `pres_comp_soc_2.out' has not changed.
-(rerunfilecheck)             Checksum: 1FEE529FE8C2805848BA2E36894611C7;328.
+(rerunfilecheck)             Checksum: 016BEC3E03F6A18EFFCA0767B2505277;329.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -964,23 +1104,23 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
  ) 
 Here is how much of TeX's memory you used:
- 16138 strings out of 495059
- 298268 string characters out of 3182030
- 380643 words of memory out of 3000000
- 18919 multiletter control sequences out of 15000+200000
+ 16251 strings out of 495059
+ 300087 string characters out of 3182030
+ 380633 words of memory out of 3000000
+ 19005 multiletter control sequences out of 15000+200000
  6628 words of font info for 24 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 49i,20n,62p,404b,806s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,20n,62p,409b,806s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on pres_comp_soc_2.pdf (6 pages, 281404 bytes).
+Output written on pres_comp_soc_2.pdf (15 pages, 792694 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 231 compressed objects within 3 object streams
- 20 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 564 PDF objects out of 1000 (max. 8388607)
+ 510 compressed objects within 6 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 
