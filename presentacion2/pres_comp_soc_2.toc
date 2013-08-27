@@ -1,4 +1,7 @@
 \beamer@endinputifotherversion {3.10pt}
 \select@language {spanish}
-\beamer@sectionintoc {2}{Censura}{3}{0}{1}
-\beamer@sectionintoc {3}{Censura en Internet}{4}{0}{2}
+\beamer@sectionintoc {2}{La OpenNet Initiative}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{?`Qu\'e es OpenNet Initiative?}{3}{0}{1}
+\beamer@sectionintoc {3}{Filtrado en Internet}{5}{0}{2}
+\beamer@subsectionintoc {3}{1}{Enfoques de Filtrado}{5}{0}{2}
+\beamer@subsectionintoc {3}{2}{Puntos de Control}{6}{0}{2}
